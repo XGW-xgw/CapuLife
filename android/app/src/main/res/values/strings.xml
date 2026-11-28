@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cap_accessibility_description">读取微信、支付宝、云闪付的支付或收款成功页面，把金额和收款方写入 CapuLife 的待确认账单。只在本机处理，不保存聊天内容。</string>
+    <string name="cap_accessibility_label">CapuLife 页面记账</string>
+</resources>
